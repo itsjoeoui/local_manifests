@@ -2,7 +2,7 @@
 <manifest>
   <project path="device/oneplus/guacamole" name="itsjoeoui/device_oneplus_guacamole" revision="eleven" remote="github" />
   <project path="device/oneplus/sm8150-common" name="itsjoeoui/device_oneplus_sm8150-common" revision="eleven" remote="github" />
-  <project path="kernel/oneplus/sm8150" name="itsjoeoui/kernel_oneplus_sm8150" revision="eleven" remote="github" />
+  <project path="kernel/oneplus/sm8150" name="itsjoeoui/kernel_oneplus_sm8150" revision="los" remote="github" />
   <project path="vendor/oneplus" name="itsjoeoui/vendor_oneplus" revision="eleven" remote="github" />
   <project path="device/oneplus/common" name="LineageOS/android_device_oneplus_common" revision="lineage-18.1" remote="github" />
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" revision="master" remote="github" />
