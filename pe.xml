@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="hardware_qcom-caf_sm8150_display" />
-  <remove-project name="hardware_qcom-caf_sm8150_media" />
-  <remove-project name="hardware_qcom-caf_sm8150_audio" />
   <project path="device/oneplus/guacamole" name="itsjoeoui/device_oneplus_guacamole" revision="eleven" remote="github" />
   <project path="device/oneplus/sm8150-common" name="itsjoeoui/device_oneplus_sm8150-common" revision="eleven" remote="github" />
-  <project path="kernel/oneplus/sm8150" name="itsjoeoui/kernel_oneplus_sm8150" revision="los" remote="github" />
+  <project path="kernel/oneplus/sm8150" name="itsjoeoui/kernel_oneplus_sm8150" revision="eleven" remote="github" />
   <project path="vendor/oneplus" name="itsjoeoui/vendor_oneplus" revision="eleven" remote="github" />
   <project path="device/oneplus/common" name="LineageOS/android_device_oneplus_common" revision="lineage-18.1" remote="github" />
   <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" revision="master" remote="github" />
-  <project path="hardware/qcom-caf/sm8150/display" name="itsjoeoui/hardware_qcom-caf_sm8150_display" revision="eleven" remote="github" />
-  <project path="hardware/qcom-caf/sm8150/media" name="itsjoeoui/hardware_qcom-caf_sm8150_media" revision="eleven" remote="github" />
-  <project path="hardware/qcom-caf/sm8150/audio" name="itsjoeoui/hardware_qcom-caf_sm8150_audio" revision="eleven" remote="github" />
 </manifest>
